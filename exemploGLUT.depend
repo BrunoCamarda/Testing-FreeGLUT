@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1495485559 source:c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 01\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<cmath>
+
+1307913234 c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 01\include\gl\glut.h
+	"freeglut.h"
+
+1307913234 c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 01\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1307913234 c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 01\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1307913234 c:\users\bruno\dropbox\eng. computação\17.1\computação gráfica\prática 01\include\gl\freeglut_ext.h
+
